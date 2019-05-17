@@ -11,7 +11,7 @@ The Website has an endpoint which accepts HTTPS post requests. The endpoint rece
 ###### Clone the project to the local Machine
 
 ```
-git clone https://github.com/AnuradhaSD/CSRF_SynchronizerTokenPattern.git
+git clone https://github.com/SachinthaWeesinghe/CSRF-Synchronized-token-pattern.git
 
 ```
 ### Run application
