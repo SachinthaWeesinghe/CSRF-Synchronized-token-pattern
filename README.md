@@ -37,4 +37,4 @@ Upon Sceessful login directs to Form
 ```
 localhost:8080/CSRF/form.jsp
 ```
-### Blog URL : [Synchronizer Token Pattern](http://sanjeewafirst.blogspot.com/2018/09/cross-site-request-forgery-protection.html)
+### Blog URL : [Synchronizer Token Pattern](https://sachinthaweesinghe.blogspot.com/2019/05/csrf-synchronizer-token-pattern.html)
