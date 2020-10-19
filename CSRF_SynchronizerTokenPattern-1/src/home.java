@@ -44,7 +44,7 @@ public class home extends HttpServlet {
 		String storedToken = (String) session.getAttribute("csrfToken");
 		String token = request.getParameter("tokenval");
 
-		/* If the received CSRF token valid alert Sucess Message */
+		/* If the received CSRF token valid and then alert Sucess Message */
 		if (storedToken.equals(token)) {
 
 			PrintWriter out = response.getWriter();
