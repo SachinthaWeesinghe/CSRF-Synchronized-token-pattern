@@ -16,6 +16,7 @@ import javax.servlet.http.HttpSession;
  * Servlet implementation class LoginCheck
  */
 @WebServlet("/LoginCheck")
+//Servlet class
 public class Login extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
